@@ -1,1 +1,1 @@
-export default function inPercy(): boolean;
+export = function inPercy(): boolean;
