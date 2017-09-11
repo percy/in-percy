@@ -1,1 +1,2 @@
-export = function inPercy(): boolean;
+function inPercy(): boolean;
+export = inPercy;
